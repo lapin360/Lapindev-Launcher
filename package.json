@@ -9,7 +9,7 @@
         "email": "contact@hetonia.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr/launcherSelvania",
+    "url": "http://lapindev.hetonia.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
