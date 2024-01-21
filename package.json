@@ -1,12 +1,12 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.0",
+    "name": "Lapindev-Launcher",
+    "preductname": "Lapindev Launcher",
+    "version": "2.1.1",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
+        "name": "lelapin2, .",
+        "email": "contact@hetonia.fr",
         "url": "https://github.com/luuxis"
     },
     "url": "http://launcher.luuxis.fr/launcherSelvania",
